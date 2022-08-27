@@ -139,6 +139,21 @@ body, button {
     .footer-col {
         width: 100%;
     }
+    .row {
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+    }
+    .footer__logo {
+        width: 80px;
+    }
+    .footer__logos img {
+        width: 50px;
+    }
+    .logo__container {
+        align-items: center;
+        text-align: center;
+    }
     .footer__icons {
         position: static;
         justify-content: center;
